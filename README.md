@@ -73,3 +73,6 @@ Or modify directly inside the `main()` function for consistent usage.
 
 ## Why this Project?
 This project showcases:
+- Python scripting for cybersecurity applications
+- Secure password generation techniques
+- Real-world automation and user-centric security tools
